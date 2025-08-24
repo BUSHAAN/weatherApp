@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+#root {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  width:"100vw";
+}
+
+@theme inline {
+  --color-primary-100: #6C5DD3;
+}
